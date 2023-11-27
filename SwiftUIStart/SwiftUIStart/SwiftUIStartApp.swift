@@ -11,7 +11,8 @@ import SwiftUI
 struct SwiftUIStartApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ContentView()
+            MeetingView()
         }
     }
 }
